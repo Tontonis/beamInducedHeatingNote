@@ -1,0 +1,18 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: beam_induced_heating_note.aux
+The style file: myIEEETran.bst
+Database file #1: thesisBib.bib
+I was expecting an "="---line 619 of file thesisBib.bib
+ : /  
+ :    publisher = {American Physical Society}
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty booktitle in Pivi:PEP
+Warning--empty booktitle in Salvant:Heating
+Warning--empty booktitle in Metral:Heating
+Warning--missing institution in Baudrenghien:LHCPowSpec
+Warning--missing institution in Grudiev:twoBeamCol
+
+Done.
+(There was 1 error message)

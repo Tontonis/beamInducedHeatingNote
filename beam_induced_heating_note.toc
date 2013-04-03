@@ -1,12 +1,8 @@
-\contentsline {section}{\numberline {0.1}Introduction}{2}
-\contentsline {section}{\numberline {0.2}Defining and Deriving Power Loss in Circular Accelerators}{3}
-\contentsline {subsubsection}{Defining and Deriving Power Loss in Circular Accelerators}{3}
-\contentsline {section}{\numberline {0.3}Longitudinal Beam Profiles}{5}
-\contentsline {section}{\numberline {0.4}Beam induced heating due to a low Q impedance}{7}
-\contentsline {section}{\numberline {0.5}Beam induced heating due to a high Q impedance}{9}
-\contentsline {section}{\numberline {0.6}Some Examples of the Beam-Induced Heating}{10}
-\contentsline {subsection}{\numberline {0.6.1}The Effect of Bunch Length on Power Loss}{10}
-\contentsline {subsection}{\numberline {0.6.2}Beam-Induced Heating due to two traversing beams}{11}
-\contentsline {section}{\numberline {0.7}Summary}{13}
-\contentsline {section}{\numberline {0.8}Appendix}{13}
-\contentsline {subsection}{\numberline {0.8.1}Bunch Profiles in the Frequency Domain}{13}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Defining and Deriving Power Loss in Circular Accelerators}{2}
+\contentsline {section}{\numberline {3}Longitudinal Beam Profiles}{4}
+\contentsline {section}{\numberline {4}Beam induced heating due to a low Q impedance}{7}
+\contentsline {section}{\numberline {5}Beam induced heating due to a high Q impedance}{9}
+\contentsline {section}{\numberline {6}Some Examples of the Beam-Induced Heating}{10}
+\contentsline {subsection}{\numberline {6.1}The Effect of Bunch Length on Power Loss}{10}
+\contentsline {section}{\numberline {7}Beam-Induced Heating due to two traversing beams}{11}
